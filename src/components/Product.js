@@ -80,13 +80,13 @@ const ProductWrapper = styled.div`
     position : relative;
     overflow : hidden;
 }
-.car-img-top {
+.card-img-top {
     transition : all 1s linear;
 }
 .img-container:hover .card-img-top {
     transform : scale(1.2);
 }
-.card-btn {
+.cart-btn {
     position : absolute;
     bottom : 0;
     right : 0;
@@ -103,7 +103,7 @@ const ProductWrapper = styled.div`
     transform : translate(0, 0);
 
 }
-.car-btn : hover {
+.cart-btn : hover {
     color  : var(--mainWhite);
     cursor : pointer;
 }
