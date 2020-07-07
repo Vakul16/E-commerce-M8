@@ -75,4 +75,4 @@ HTML/CSS
 
 ReactJS
 
-Bootstrap
+Bootstrap/Third Party Components
