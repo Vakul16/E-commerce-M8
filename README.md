@@ -71,8 +71,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 Javascript
 
-HTML/CSS
-
 ReactJS
 
-Bootstrap/Third Party Components
+HTML/CSS
+
+Bootstrap & Third Party Components
